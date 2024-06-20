@@ -78,6 +78,6 @@
 
 ###
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/maciejmakowski2003/maciejmakowski2003/blob/output/github-contribution-grid-snake2.svg)
 
 ###
