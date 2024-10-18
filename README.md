@@ -10,6 +10,12 @@
 
 ###
 
+<h2 align="left">Open-source contributions</h2>
+
+- [**react-native-audio-api**]([https://github.com/software-mansion/react-native-reanimated](https://github.com/software-mansion-labs/react-native-audio-api)) - audio library for React Native
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
