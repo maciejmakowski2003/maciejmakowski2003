@@ -86,6 +86,6 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejmakowski2003&layout=compact&theme=codeSTACKr&hide=jupyter%20notebook,html,css,scss,&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ###
