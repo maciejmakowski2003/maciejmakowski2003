@@ -1,91 +1,37 @@
-<h1 align="left">Hi, I'm Maciek! ✋</h1>
+# Hi, there! ✋
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+My name is Maciek, and I'm currently in my third year pursuing a degree in Computer Science at the Faculty of Computer Science, AGH University of Science and Technology in Cracow. Alongside my studies, I am also working as a Software Engineer at Software Mansion. 
 
-###
+## Hobbies
 
-<p align="left">I am studing Computer Science from the Faculty of Computer Science at the AGH UST of Cracow 🏫,<br>in love with traveling 🛫,  tennis 🎾, skiing🎿 and <br>programming 💻 </p>
+- traveling 🛫
+- tennis 🎾
+- skiing 🎿
+- gym 🏋️
+- programming 💻
 
-###
-
-<h2 align="left">Open-source contributions</h2>
+---
+  
+## Open-source contributions
 
 - [**react-native-audio-api**](https://github.com/software-mansion-labs/react-native-audio-api) - audio library for React Native - main contributor
 
-###
+## Projects
 
-<h2 align="left">Technologies</h2>
+- [**Darwin World**](https://github.com/maciejmakowski2003/DarwinWorld) - A virtual ecosystem model developed using Java and the JavaFX framework.
+- [**Tasky**](https://github.com/maciejmakowski2003/tasky) - Web application created using React and express for managing tasks and events.
+- [**Algorithms and Structures**](https://github.com/maciejmakowski2003/Algorithms_and_structures/tree/main/graphs) - Implementations of some most popular sorting, graphs, dynamic and greedy algorithms.
+- [**Computional methods for Science and Technology**](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology) - 4-th semester course about computional methods for Science and Technology.
+- [**Cinema reservation system**](https://github.com/maciejmakowski2003/Cinema-reservation-system) - Web application created using React and express for managing reservation. Created with React, Express and MongoDB.
+- [**Concurrent Gaussian elimination**](https://github.com/maciejmakowski2003/Concurrency-Theory/tree/main/lab7) - Cpp program for performing concurrent gaussian elimination with self-implemented thread pool and proof of correctness.
+---
 
-###
+## Languages that I know
 
-<div align="left">
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> </a>
-  <img width="12" />
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  /> </a>
-  <img width="12" />
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" /></a>
-  <img width="12" />       
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
-  <img width="12" />
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="reactnative logo"  /></a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /></a>
-</div>
+[![Languages](https://skillicons.dev/icons?i=cpp,java,kotlin,ts,js,c,py,bash)](https://skillicons.dev)
 
-###
+## Technologies that I worked with
 
-<h2 align="left">Side/basics</h2>
-
-###
-
-<div align="left">
-  <a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <a href="https://erlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  /></a>
-  <img width="12" />
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  /> </a>
-  <img width="12" />
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg" height="40" alt="cmake logo"  />
-</div>
-
-###
-
-<h2 align="left">Other technologies</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
-
-###
+[![Technologies](https://skillicons.dev/icons?i=androidstudio,apple,react,bootstrap,yarn,npm,figma,spring,express,nodejs,hibernate,mysql,mongodb,postgres,sqlite,postman,cmake,gradle,tensorflow,pytorch,sklearn,git,github,linux)](https://skillicons.dev)
