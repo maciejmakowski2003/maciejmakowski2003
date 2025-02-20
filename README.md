@@ -1,4 +1,4 @@
-<h1 align="left">🔥 Hi, I'm Maciek, I'm 20 yo. 🔥</h1>
+<h1 align="left">Hi, I'm Maciek! ✋</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -51,9 +51,11 @@
   <img width="12" />
   <a href="https://erlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  /></a>
   <img width="12" />
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  /> </a>
   <img width="12" />
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
+  <img width="12" />
+  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg" height="40" alt="cmake logo"  />
 </div>
 
 ###
@@ -81,13 +83,9 @@
   <img width="12" />
   <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
-  <img width="12" />
   <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <a href="https://www.java.com/pl/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg" height="40" alt="cmake logo"  />
 </div>
 
 ###
