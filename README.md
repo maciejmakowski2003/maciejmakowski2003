@@ -10,7 +10,7 @@ My name is Maciek, and I'm currently in my third year pursuing a degree in Compu
 - tennis 🎾
 - skiing 🎿
 - gym 🏋️
-- programming 💻
+- programming and algorithms 💻
 
 ---
   
